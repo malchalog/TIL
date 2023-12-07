@@ -13,5 +13,5 @@
   <summary>1201</summary>
   - 와인 추천시스템 구현
   <summary>1207</summary>
-- [CF기반 추천시스템 디벨롭] 유사도 계산 방식 비교 (코사인 VS 피어슨)
+- [CF기반 추천시스템 디벨롭] 유사도 계산 방식 비교 (코사인 VS 피어슨) 블로그 글 정리 (https://blog.naver.com/malcha0808/postwrite?categoryNo=18)
 </details>
