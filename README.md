@@ -1,7 +1,7 @@
 # TIL
 매일 배운 것을 기록합니다
 ## 2023
-<details>
+
   <details>
   <summary>12월</summary>
    <summary>1226</summary>
@@ -21,7 +21,7 @@
   <img src="https://github.com/malchalog/TIL/assets/141055063/8e190268-62a9-49e9-b0ba-bcd398ced6ce"  width="700" height="370">
   </details>
 
-</details>
+
 
 
 
