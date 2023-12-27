@@ -10,6 +10,8 @@
 
   <details>
   <summary>12월</summary>
+    <summary>1227</summary>
+  - Tracking Plan 작성하기
    <summary>1226</summary>
   - 다양한 사례로 익히는 SQL 데이터분석 5개 강의 듣고 복습 (페이지별 이탈율/종료율)
    <summary>1211</summary>
