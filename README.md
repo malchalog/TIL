@@ -10,6 +10,9 @@
 
   <details>
   <summary>12월</summary>
+   <summary>1228</summary>
+  - A/B 테스트 1/4 읽고 요약하기
+  - SQL ga관련 코드 2개 풀기
     <summary>1227</summary>
   - Tracking Plan 작성하기
    <summary>1226</summary>
