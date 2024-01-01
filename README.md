@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  <summary>0101</summary>
+  - 데이터 로그 지표 설계 - 03. 로그 설계 질문 및 보완(고정 파라미터 vs 가변파라미터)
 </details>
 
 
