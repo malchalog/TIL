@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  <summary>0103</summary>
+  - 피어슨 상관관계
   <summary>0102</summary>
   - 인프런 : 웹사이트 퍼포먼스 분석 - 02
   <summary>0101</summary>
