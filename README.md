@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0105</summary>
+  - RMSE
   <summary>0103</summary>
   - 피어슨 상관관계
   <summary>0102</summary>
