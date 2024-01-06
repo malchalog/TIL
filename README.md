@@ -3,6 +3,9 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0106</summary>
+  - 추천시스템에서 피어슨, 코사인 유사도 구현하는 글 업로드
+  - https://blog.naver.com/malcha0808/223314589405
   - <summary>0105</summary>
   - RMSE
   <summary>0103</summary>
