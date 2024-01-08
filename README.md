@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0108</summary>
+  - 추천시스템의 성능개선 (rank_aware)검색모델 평가지표 MRR, MaP, nDCG 일독 
   - <summary>0107</summary>
   A/B TEST 도서 ~40p
   - <summary>0106</summary>
