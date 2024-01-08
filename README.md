@@ -6,7 +6,7 @@
   - <summary>0108</summary>
   - 추천시스템의 성능개선 (rank_aware)검색모델 평가지표 MRR, MaP, nDCG 일독 
   - <summary>0107</summary>
-  A/B TEST 도서 ~40p
+  - A/B TEST 도서 (~40p)
   - <summary>0106</summary>
   - 추천시스템에서 피어슨, 코사인 유사도 구현하는 글 업로드
   - https://blog.naver.com/malcha0808/223314589405
