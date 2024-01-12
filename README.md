@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0112</summary>
+  - 집중력과 수면, 휴대폰 사용시간 상관관계 및 다중회귀분석 디벨롭
   - <summary>0108</summary>
   - 추천시스템의 성능개선 (rank_aware)검색모델 평가지표 MRR, MaP, nDCG 일독 
   - <summary>0107</summary>
