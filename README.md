@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0113</summary>
+  - 현장에서 바로 써먹는 데이터 분석 with 파이썬 도서 다중회귀분석
   - <summary>0112</summary>
   - 집중력과 수면, 휴대폰 사용시간 상관관계 및 다중회귀분석 디벨롭
   - <summary>0108</summary>
