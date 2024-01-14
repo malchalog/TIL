@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0114</summary>
+  - 포트폴리오 PDF 작성
   - <summary>0113</summary>
   - 현장에서 바로 써먹는 데이터 분석 with 파이썬 도서 다중회귀분석
   - <summary>0112</summary>
