@@ -3,6 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  -  <summary>0117</summary>
+  -  우피 디벨롭, 그로스해킹 일독
   - <summary>0114</summary>
   - 포트폴리오 PDF 작성
   - <summary>0113</summary>
