@@ -3,7 +3,8 @@
 ## 2024
 <details>
   <summary>1월</summary>
-  -  <summary>0118</summary>
+  - <summary>0118</summary>
+  - SQL 3문제 풀기 (프로그래머스) , 포트폴리오 회고
   - SELECT  C.CAR_ID AS CAR_ID
       , C.CAR_TYPE AS CAR_TYPE
       , ROUND(C.DAILY_FEE * 30 * (1 - P.DISCOUNT_RATE/100),-1) AS FEE
