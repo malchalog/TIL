@@ -4,7 +4,7 @@
 <details>
   <summary>1월</summary>
   - <summary>0118</summary>
-  - SQL 3문제 풀기 (프로그래머스) , 포트폴리오 회고
+  - ## SQL 3문제 풀기 (프로그래머스) , 포트폴리오 회고
   - SELECT  C.CAR_ID AS CAR_ID
       , C.CAR_TYPE AS CAR_TYPE
       , ROUND(C.DAILY_FEE * 30 * (1 - P.DISCOUNT_RATE/100),-1) AS FEE
@@ -21,8 +21,7 @@ WHERE H.CAR_ID IS NULL #대여기간이 안겹치는 차 (즉, 대여가능한 �
           BETWEEN 500000 AND 1999999 #금액조건
 ORDER BY FEE DESC, CAR_TYPE ASC, CAR_ID DESC
 
-#그런데 left join 방식으로 하면 같은 차를 여러번 대여할 수 있으므로 기준 테이블의 행에 조인 되는 행이 2개 이상이 되면 중복값이 생긴다는 것을 주의해야할 것 같다.
-# 물론 여기에서는 일부러 NULL값만을 추출하는 것이라 해당 없지만! 혹시 저 조건에 맞는 행을 추출하고 싶었다면 distinct 혹은 group by를 통해 중복값을 제거해야한다.
+그런데 left join 방식으로 하면 같은 차를 여러번 대여할 수 있으므로 기준 테이블의 행에 조인 되는 행이 2개 이상이 되면 중복값이 생긴다는 것을 주의해야할 것 같다. 물론 여기에서는 일부러 NULL값만을 추출하는 것이라 해당 없지만! 혹시 저 조건에 맞는 행을 추출하고 싶었다면 distinct 혹은 group by를 통해 중복값을 제거해야한다.
   -  <summary>0117</summary>
   -  우피 디벨롭, 그로스해킹 일독
   - <summary>0114</summary>
