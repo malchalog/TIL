@@ -3,9 +3,11 @@
 ## 2024
 <details>
   <summary>1월</summary>
-   - <summary>0120</summary>
-   - [추천시스템 디벨롭] 04. 추천 시스템 어떻게 평가할까? (MaP, nDCG)
-   - https://blog.naver.com/malcha0808/223328701816
+  - <summary>0121</summary>
+  - 모각공 스터디 시험 준비 (~해커랭크 intermediate)
+  - <summary>0120</summary>
+  - [추천시스템 디벨롭] 04. 추천 시스템 어떻게 평가할까? (MaP, nDCG)
+  - https://blog.naver.com/malcha0808/223328701816
   - <summary>0118</summary>
   - ## SQL 3문제 풀기 (프로그래머스) , 포트폴리오 회고
   - SELECT  C.CAR_ID AS CAR_ID
