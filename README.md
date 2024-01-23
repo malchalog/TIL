@@ -3,6 +3,9 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0122</summary>
+  자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 (Group by, Distinct, Max로 한글값 비교)
+  https://blog.naver.com/malcha0808/223331743121
   - <summary>0121</summary>
   - 모각공 스터디 시험 준비 (~해커랭크 intermediate)
   - RFM 고객 세분화 분석에서 합리적으로 기준을 잡는 방법 https://datarian.io/blog/how-to-make-your-rfm-customer-segmentation-reasonable?utm_source=openchat&utm_medium=social&utm_campaign=referral
