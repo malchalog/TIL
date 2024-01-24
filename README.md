@@ -4,13 +4,10 @@
 <details>
   <summary>1월</summary>
   - <summary>0123</summary>
-  - SQL 코딩테스트 문제 풀이 및 해설
-✅ 난이도 상 (접근 방식을 생각 못함) SQL Project PlanningMediumSQL https://blog.naver.com/malcha0808/223332495322
-✅  난이도 중상 (MAX, CASE WHEN) [자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기]
-✅ 난이도 중상 (문맥파악 못함)  [상품을 구매한 회원 비율 구하기] https://blog.naver.com/malcha0808/223332217568
-✅ 난이도 하 카테고리 별 도서 판매량 집계하기
-✅ 난이도 하 New CompaniesMedium
-✅ 난이도 하 Contest LeaderboardMediumSQL (Intermediate) https://blog.naver.com/malcha0808/223332659858
+  - SQL 코딩테스트 6문제 풀이 및 해설
+  - https://blog.naver.com/malcha0808/223332495322
+  - https://blog.naver.com/malcha0808/223332217568
+  -  https://blog.naver.com/malcha0808/223332659858
   - <summary>0122</summary>
   자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 (Group by, Distinct, Max로 한글값 비교)
   https://blog.naver.com/malcha0808/223331743121
