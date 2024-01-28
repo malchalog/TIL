@@ -3,6 +3,9 @@
 ## 2024
 <details>
   <summary>1월</summary>
+  - <summary>0127</summary>
+  - 해커랭크 Customers 오답
+  - <summary>0125</summary>
   - 해커랭크 interviews 오답
   - <summary>0124</summary>
   - 코딩테스트 5문제 풀이 및 해설 (https://blog.naver.com/malcha0808/223332495324)
